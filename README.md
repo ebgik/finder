@@ -11,7 +11,7 @@ Plugin with JQuery
 <strong>inputSearch</strong> - поле, из которого берется строка для поиска (по умолчанию '.search')
 <strong>urlSearch</strong> - путь к обработчику (по умолчанию '/jsonapi/search')
 <strong>inputHidden</strong> - скрытое поле, в которое кладется конечный результат (по умолчанию '.json')
-<strong>url_prefix</strong> - префикс url-ла, для ссылок на информацию о РНТД (по умолчанию '/')
+<strong>url_prefix</strong> - префикс url-ла(по умолчанию '/')
 </pre>
 
 Данные необходимые для вывода информации об элементе списка:
