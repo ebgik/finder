@@ -24,13 +24,13 @@ Plugin with JQuery
 
 Все параметры являются необязательными
 
-Пример использования
+Пример использования<br>
 <code>
-     $('.listBlock').finder({
-        url_prefix:"/service/",
-        urlSearch:'/jsonapi/search',
-        id:'id',
-        name:'name',
-        description:'text'
+     $('.listBlock').finder({<br>
+        url_prefix:"/service/",<br>
+        urlSearch:'/jsonapi/search',<br>
+        id:'id',<br>
+        name:'name',<br>
+        description:'text'<br>
      })
 </code>
